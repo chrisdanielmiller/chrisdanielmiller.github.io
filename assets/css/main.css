@@ -2819,7 +2819,7 @@ input, select, textarea {
 
 	#wrapper {
 		background: #fff;
-		padding-right: 23em;
+		padding-left: 23em;
 	}
 
 /* Main */
@@ -2897,7 +2897,7 @@ input, select, textarea {
 		/* Wrapper */
 
 			#wrapper {
-				padding-right: 21em;
+				padding-left: 21em;
 			}
 
 		/* Main */
@@ -2927,7 +2927,7 @@ input, select, textarea {
 		/* Wrapper */
 
 			#wrapper {
-				padding-right: 20em;
+				padding-left: 20em;
 			}
 
 	}
