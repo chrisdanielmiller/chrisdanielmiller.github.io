@@ -2986,7 +2986,7 @@ input, select, textarea {
 				-webkit-transform: translateX(23em);
 				-ms-transform: translateX(23em);
 				transform: translateX(23em);
-				right: 0;
+				left: 0;
 			}
 
 				#header > footer {
